@@ -1,0 +1,15 @@
+LAYOUT HEADER:
+<style>
+ .Windows3_1_bg {background: url(https://bin.smwcentral.net/u/74890/winlogo.bmp) center center no-repeat, hsl(302, 30%, 13%) url(https://bin.smwcentral.net/u/74890/thatch.bmp) top left repeat; padding: 20px; font-family: inherit; color: hsl(0, 1%, 3%); text-shadow: 0 0 3px #000000; min-height: 100px;}
+ .Windows3_1_post {background: hsl(302, 21%, 100%); border: 3px solid hsl(246, 95%, 54%); border-radius: 0; padding: 7px; box-shadow: 2px 2px 1px #000000; margin-right: 0;}
+ .Windows3_1_post a {color: hsl(246, 90%, 42%); font-weight: normal; text-shadow: inherit;} .Windows3_1_post a:hover {color: hsl(231, 55%, 53%);}
+ .Windows3_1_post .quote .box {background: rgba(0, 0, 0, 0.4); border: 1px solid hsl(0, 1%, 33%); border-radius: 0; padding: 5px; box-shadow: 0 0 0 #000000;}
+ .Windows3_1_post .quote a {color: hsl(216, 94%, 65%);} .Windows3_1_post .quote a:hover {color: hsl(227, 88%, 75%);}
+ .Windows3_1_post .code .box {background: rgba(0, 0, 0, 0.4); border: 1px solid #FFFFFF; border-radius: 0; padding: 5px; box-shadow: 0 0 0 #000000; color: inherit; white-space: pre-wrap;}
+ .Windows3_1_post .spoiler {background: #000000 !important; border: 1px solid #FFFFFF !important; border-radius: 2px;}
+ .Windows3_1_post .code .boxhead {color:  inherit;} .Windows3_1_post .code br {display: none;}
+ .Windows3_1_post hr {border: 0; height: 1px; background: hsl(246, 95%, 54%);} /* Layout Maker XP 2 */
+</style><div class="Windows3_1_bg"><div class="Windows3_1_post">
+
+LAYOUT FOOTER:
+</div><div class="Windows3_1_post" style="margin-top: 20px;">SIGNATURE TEXT HERE.</div></div>
